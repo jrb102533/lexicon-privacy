@@ -6,20 +6,32 @@ Lexicon ("the app") is operated by Jason Boyd ("we", "us").
 
 ## The short version
 
-Lexicon collects no personal data. It has no ads, no analytics, no accounts and no in-app purchases, and it doesn't connect to the internet.
+Lexicon has no ads, no analytics, no accounts and no in-app purchases. Your game stays on your device. The only data that ever leaves it is for the **global leaderboard**, and only if you choose to join it.
 
 ## Data stored on your device
 
-Your game progress (your word collection, currency, upgrades, prestige stats and settings) is saved only on your device. It is never sent to us or anyone else, because the app has no servers and doesn't request internet access.
+Your game progress (your word collection, currency, upgrades, levels, prestige stats and settings) is saved only on your device. It is never sent to us or anyone else.
+
+## The global leaderboard (optional)
+
+The Ranks screen lets you join a global leaderboard. Nothing is sent until you tap **Join**. If you join, the app sends:
+
+- **the nickname you choose**, which is shown publicly on the leaderboard;
+- **a random ID created on your device**, so your scores stay together (it isn't linked to your name, email, Google account or device identifiers);
+- **your best scores**: words discovered, best combo and total score.
+
+We use this data only to run the leaderboard. The leaderboard is hosted by [Talo](https://trytalo.com), which processes the data on our behalf; see [Talo's privacy policy](https://trytalo.com/privacy). Like any web service, Talo's servers receive your IP address when the app connects; we don't use it to identify you. Data is encrypted in transit.
+
+You can leave at any time in **Settings → Leaderboard → Leave**. The app then stops sending scores and forgets its random ID. To remove your nickname and scores from the leaderboard, email us with your nickname and we'll delete them.
 
 ## Data we do not collect
 
-- No personal information: no name, email address, account or contact details.
 - No advertising: the app shows no ads and doesn't use your device's advertising ID.
 - No analytics or tracking of any kind, and no cookies or fingerprinting.
-- No location, contacts, photos or other device data. The app requests no Android permissions.
+- No accounts, and no name, email address or contact details (unless you email us).
+- No location, contacts, photos or other device data. The only Android permission the app requests is internet access, for the leaderboard.
 
-We don't sell or share data with anyone, because we don't have any.
+We don't sell or share data with anyone.
 
 ## Feedback emails
 
@@ -27,15 +39,15 @@ If you choose **Settings → Send feedback**, your own email app opens a message
 
 ## Deleting your data
 
-Uninstalling Lexicon, or clearing its storage in Android settings, permanently deletes your progress. We hold no copy, so there is nothing else to delete except any feedback emails you've sent us.
+Uninstalling Lexicon, or clearing its storage in Android settings, permanently deletes your progress on the device. If you joined the leaderboard, email us your nickname and we'll delete your leaderboard entries too.
 
 ## Children
 
-Lexicon is rated for ages 13 and older. It doesn't collect personal information from anyone, including children.
+Lexicon is rated for ages 13 and older. We don't knowingly collect personal information from children under 13.
 
 ## Changes to this policy
 
-If we change how the app handles data (for example, by adding features that go online), we'll update this policy and the "Last updated" date before releasing that version.
+If we change how the app handles data, we'll update this policy and the "Last updated" date before releasing that version.
 
 ## Contact
 
