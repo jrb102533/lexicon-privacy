@@ -1,6 +1,6 @@
 # Lexicon — Privacy Policy
 
-_Last updated: 10 May 2026_
+_Last updated: 28 September 2026_
 
 Lexicon ("the app") is operated by Jason Boyd ("we", "us").
 
@@ -22,9 +22,18 @@ This data is used by Google for ad personalization, frequency capping, fraud pre
 
 For details on Google's ad data practices, see Google's [Privacy & Terms](https://policies.google.com/privacy) and the [AdMob Terms](https://support.google.com/admob/answer/6128543).
 
-You can opt out of personalized advertising in your device settings:
+### Your ad choices
 
-- **Android:** Settings → Google → Ads → "Opt out of Ads Personalization"
+If you are in the European Economic Area, the United Kingdom or Switzerland, Lexicon asks for your consent through Google's consent form the first time you open it, before any ads are requested. You can review or change your choice at any time in **Settings → Ad privacy choices** inside the game.
+
+Wherever you are, you can also limit ad personalization in your device settings:
+
+- **Android 12 and later:** Settings → Privacy → Ads → "Delete advertising ID"
+- **Earlier Android versions:** Settings → Google → Ads → "Opt out of Ads Personalization"
+
+### Feedback emails
+
+If you choose **Settings → Send feedback**, your email app opens a message to us. The draft includes your device model and Android version to help us reproduce problems, and you can remove them before sending. If you send it, we receive your email address and whatever you write, and use them only to reply and to fix the game. We don't add you to any mailing list.
 
 ## Data we do not collect
 
@@ -32,6 +41,10 @@ You can opt out of personalized advertising in your device settings:
 - We do not track gameplay analytics on our own infrastructure.
 - We do not sell or share any data with third parties beyond AdMob's standard ad-serving pipeline described above.
 - We do not use cookies, fingerprinting, or cross-device tracking on the app side.
+
+## Keeping and deleting your data
+
+Your game progress lives only on your device. Uninstalling Lexicon, or clearing its storage in Android settings, deletes it permanently. We hold no copy, so there is nothing for us to delete on our side except any feedback emails you have sent us, which we will delete on request. For data Google collects through AdMob, see Google's [Privacy & Terms](https://policies.google.com/privacy).
 
 ## Children
 
@@ -43,8 +56,6 @@ We may update this policy from time to time. Material changes will be noted with
 
 ## Contact
 
-Questions about this policy or about the app's privacy practices? Reach out at:
+Questions about this policy, a deletion request, or anything else about the app's privacy practices? Email us at:
 
-**jrb102533@users.noreply.github.com**
-
-_Note: this address is a GitHub no-reply alias and currently does not accept incoming mail. A working contact address will be substituted before the app's public Play Store release._
+**[SUPPORT EMAIL: add before merging]**
