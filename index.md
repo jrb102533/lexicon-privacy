@@ -53,4 +53,4 @@ If we change how the app handles data, we'll update this policy and the "Last up
 
 Questions about this policy, a deletion request, or anything else about the app's privacy practices? Email us at:
 
-**[SUPPORT EMAIL: add before merging]**
+**[wordsquiggle@gmail.com](mailto:wordsquiggle@gmail.com)**
