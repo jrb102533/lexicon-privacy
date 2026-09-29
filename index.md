@@ -1,12 +1,12 @@
-# Lexicon — Privacy Policy
+# Word Squiggle — Privacy Policy
 
 _Last updated: 28 September 2026_
 
-Lexicon ("the app") is operated by Jason Boyd ("we", "us").
+Word Squiggle ("the app") is operated by Jason Boyd ("we", "us").
 
 ## The short version
 
-Lexicon has no ads, no analytics, no accounts and no in-app purchases. Your game stays on your device. The only data that ever leaves it is for the **global leaderboard**, and only if you choose to join it.
+Word Squiggle has no ads, no analytics, no accounts and no in-app purchases. Your game stays on your device. The only data that ever leaves it is for the **global leaderboard**, and only if you choose to join it.
 
 ## Data stored on your device
 
@@ -39,11 +39,11 @@ If you choose **Settings → Send feedback**, your own email app opens a message
 
 ## Deleting your data
 
-Uninstalling Lexicon, or clearing its storage in Android settings, permanently deletes your progress on the device. If you joined the leaderboard, email us your nickname and we'll delete your leaderboard entries too.
+Uninstalling Word Squiggle, or clearing its storage in Android settings, permanently deletes your progress on the device. If you joined the leaderboard, email us your nickname and we'll delete your leaderboard entries too.
 
 ## Children
 
-Lexicon is rated for ages 13 and older. We don't knowingly collect personal information from children under 13.
+Word Squiggle is rated for ages 13 and older. We don't knowingly collect personal information from children under 13.
 
 ## Changes to this policy
 
