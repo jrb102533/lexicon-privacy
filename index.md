@@ -1,50 +1,56 @@
-# Lexicon — Privacy Policy
+# Word Squiggle — Privacy Policy
 
-_Last updated: 10 May 2026_
+_Last updated: 28 September 2026_
 
-Lexicon ("the app") is operated by Jason Boyd ("we", "us").
+Word Squiggle ("the app") is operated by Jason Boyd ("we", "us").
 
-## Data we collect
+## The short version
 
-Lexicon does not operate any servers and does not store any of your personal information on our end. The app's gameplay state — your dictionary collection, currency, upgrades, prestige stats, and settings — is stored locally on your device and never transmitted anywhere by us.
+Word Squiggle has no ads, no analytics, no accounts and no in-app purchases. Your game stays on your device. The only data that ever leaves it is for the **global leaderboard**, and only if you choose to join it.
 
-### Advertising
+## Data stored on your device
 
-Lexicon uses Google AdMob to display ads. AdMob is operated by Google LLC and may collect:
+Your game progress (your word collection, currency, upgrades, levels, prestige stats and settings) is saved only on your device. It is never sent to us or anyone else.
 
-- Your device's advertising ID
-- IP address
-- Approximate location (derived from IP)
-- Basic device information (model, OS version, language)
-- App interaction data (ad impressions, clicks)
+## The global leaderboard (optional)
 
-This data is used by Google for ad personalization, frequency capping, fraud prevention, and to attribute ad revenue. We do not access or store this data ourselves.
+The Ranks screen lets you join a global leaderboard. Nothing is sent until you tap **Join**. If you join, the app sends:
 
-For details on Google's ad data practices, see Google's [Privacy & Terms](https://policies.google.com/privacy) and the [AdMob Terms](https://support.google.com/admob/answer/6128543).
+- **the nickname you choose**, which is shown publicly on the leaderboard;
+- **a random ID created on your device**, so your scores stay together (it isn't linked to your name, email, Google account or device identifiers);
+- **your best scores**: words discovered, best combo and total score.
 
-You can opt out of personalized advertising in your device settings:
+We use this data only to run the leaderboard. The leaderboard is hosted by [Talo](https://trytalo.com), which processes the data on our behalf; see [Talo's privacy policy](https://trytalo.com/privacy). Like any web service, Talo's servers receive your IP address when the app connects; we don't use it to identify you. Data is encrypted in transit.
 
-- **Android:** Settings → Google → Ads → "Opt out of Ads Personalization"
+You can leave at any time in **Settings → Leaderboard → Leave**. The app then stops sending scores and forgets its random ID. To remove your nickname and scores from the leaderboard, email us with your nickname and we'll delete them.
 
 ## Data we do not collect
 
-- We do not ask for your name, email address, or account credentials.
-- We do not track gameplay analytics on our own infrastructure.
-- We do not sell or share any data with third parties beyond AdMob's standard ad-serving pipeline described above.
-- We do not use cookies, fingerprinting, or cross-device tracking on the app side.
+- No advertising: the app shows no ads and doesn't use your device's advertising ID.
+- No analytics or tracking of any kind, and no cookies or fingerprinting.
+- No accounts, and no name, email address or contact details (unless you email us).
+- No location, contacts, photos or other device data. The only Android permission the app requests is internet access, for the leaderboard.
+
+We don't sell or share data with anyone.
+
+## Feedback emails
+
+If you choose **Settings → Send feedback**, your own email app opens a message to us. The draft includes your device model and Android version to help us reproduce problems, and you can remove them before sending. If you send it, we receive your email address and whatever you write, and use them only to reply and to improve the game. We don't add you to any mailing list, and we'll delete your emails on request.
+
+## Deleting your data
+
+Uninstalling Word Squiggle, or clearing its storage in Android settings, permanently deletes your progress on the device. If you joined the leaderboard, email us your nickname and we'll delete your leaderboard entries too.
 
 ## Children
 
-Lexicon is rated for ages 13 and older and is not directed at children under 13. We do not knowingly collect personal information from children under 13. If you believe a child under 13 has provided information to the app, please contact us and we will work to delete it.
+Word Squiggle is rated for ages 13 and older. We don't knowingly collect personal information from children under 13.
 
 ## Changes to this policy
 
-We may update this policy from time to time. Material changes will be noted with an updated "Last updated" date at the top of this document. Continued use of the app after changes constitutes acceptance of the revised policy.
+If we change how the app handles data, we'll update this policy and the "Last updated" date before releasing that version.
 
 ## Contact
 
-Questions about this policy or about the app's privacy practices? Reach out at:
+Questions about this policy, a deletion request, or anything else about the app's privacy practices? Email us at:
 
-**jrb102533@users.noreply.github.com**
-
-_Note: this address is a GitHub no-reply alias and currently does not accept incoming mail. A working contact address will be substituted before the app's public Play Store release._
+**[wordsquiggle@gmail.com](mailto:wordsquiggle@gmail.com)**
